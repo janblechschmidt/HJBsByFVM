@@ -1,5 +1,6 @@
 # HJBsByFVM
-This repository contains Matlab code for the solution of HJB equations and PDEs in non-divergence form by finite volume methods. It supports many example problems defined in:
+This repository contains Matlab code for the solution of HJB equations and PDEs in non-divergence form by finite volume methods. 
+It supports many example problems defined in:
     
     setupNonvariationalPDE
     setupEllipticHJB
